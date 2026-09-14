@@ -1,0 +1,19 @@
+Website
+   ↓
+Requests
+   ↓
+BeautifulSoup
+   ↓
+50 Pages
+   ↓
+1000 Records
+   ↓
+Detailed Data
+   ↓
+Product URLs
+   ↓
+Category
+   ↓
+Data Cleaning
+   ↓
+Excel Dataset
